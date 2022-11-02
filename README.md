@@ -1,1 +1,1 @@
-# Bank-Marketing-campigan
+# Bank-Marketing-campaign
